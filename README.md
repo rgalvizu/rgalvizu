@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: reynaldogs](https://img.shields.io/badge/-reynaldogs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reynaldogs/)](https://www.linkedin.com/in/reynaldogs/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/rgalvizu?label=follow&style=social)](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Frgalvizu%2Frgalvizu&sa=D)
+[![GitHub Reynaldo](https://img.shields.io/github/followers/rgalvizu?label=follow&style=social)](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Frgalvizu%2Frgalvizu&sa=D)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
